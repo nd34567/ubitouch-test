@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UbikiTouch Gestures</string>
+    <string name="accessibility_description">Overlay-based gesture engine providing Left/Right/Bottom edge swipe gestures. Requires overlay power to map macros and custom actions.</string>
+</resources>
